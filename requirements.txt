@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+Gunicorn>=22,<24
+psycopg2-binary>=2.9,<3
+openai>=1.75,<3
